@@ -1,0 +1,132 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+
+.item-1 {
+  padding: 3.9rem 0rem 0.5rem 0rem;
+  overflow: hidden;
+  background-color: #000000;
+}
+.item-2 {
+  margin-bottom: 1.5rem;
+  padding: 0 0rem;
+  height: 19.6rem;
+  border-bottom: solid 0.4rem #ffffff;
+}
+.header {
+  width: 100%;
+  height: 14.7rem;
+  position: relative;
+}
+.group-1 {
+  width: 192rem;
+  height: 9rem;
+  display: flex;
+  align-items: center;
+}
+.line-1 {
+  margin-right: 0.8657rem;
+  width: 84.7455rem;
+  height: 0.4rem;
+  background-color: #ffffff;
+}
+.logo {
+  margin-right: 0.8657rem;
+  width: 20.7776rem;
+  height: 9rem;
+}
+.line-2-3pu {
+  margin-bottom: 0.2rem;
+  width: 84.7455rem;
+  height: 0.4rem;
+  background-color: #ffffff;
+}
+.knopki {
+  margin-top: 3rem;
+  width: 60.3rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 63.6rem;
+  top: 5.9rem;
+  display: flex;
+  align-items: flex-start;
+  font-size: 30px;
+}
+
+.header__list {
+  list-style: none;
+  display: flex;
+  margin-top: 20px;
+  margin-left: 150px;
+  
+}
+.header__link {
+  text-decoration: none;
+  color: #d4d1d1;
+  margin-right: 20px;
+  font-weight: 500;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+
+.group-2 {
+  margin: 0rem 35.05rem 15.6rem 35.05rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.item-3 {
+  margin: 0rem 0rem 3.4rem 0.2rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.haval-onas {
+  max-width: 121.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.footer {
+  box-sizing: border-box;
+  padding: 2.006rem 1.105rem 0rem 1.105rem;
+  width: 100%;
+  height: 11.1056rem;
+  border-top: solid 0.4rem #ffffff;
+}
+.foot {
+  width: 119.8469rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.prava {
+  margin: 0rem 47.747rem 0.128rem 0rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.sw7 {
+  max-width: 49rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #8c8c8c;
+  font-family: Inter, 'Source Sans Pro';
+}
